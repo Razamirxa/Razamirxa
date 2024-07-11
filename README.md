@@ -1,5 +1,5 @@
 <div align="center">
-        <img src="https://github.com/Razamirxa/Raza-UL-Mustafa/blob/main/cover%20profile.png" alt="logo"/>
+        <img src="https://github.com/Razamirxa/Razamirxa/blob/main/cover%20profile.png" alt="logo"/>
     </div>
 <h1 align="center">Hi 👋, I'm Raza Ul Mustafa</h1>
 <h3 align="center">A passionate AI/ML engineer and developer</h3>
